@@ -25,6 +25,4 @@ for the purpose of Named Entity Recognition we are using the FLAIR API with the 
 We are using the DistilBERT model again for this task as well. 
 
 
-## Contributors 
-1. [Achintya Shankhdhar](https://github.com/AchintyaX) 
-2. [Anant Shankhdhar](https://github.com/AnantShankhdhar)
+
