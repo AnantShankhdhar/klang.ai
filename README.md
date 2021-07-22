@@ -24,7 +24,7 @@ We are using the DistilBERT model that has been developed by the Hugging Face, i
 for the purpose of Named Entity Recognition we are using the FLAIR API with the pytorch backend for the purpose of Named Entity Tagging. 
 We are using the DistilBERT model again for this task as well. 
 
-##Made By:-
+## Made By:-
 [Achintya Shankhdhar](https://github.com/AchintyaX)<br>
 [Anant Shankhdhar](https://github.com/AnantShankhdhar)<br>
 
